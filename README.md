@@ -37,5 +37,5 @@ Users should be able to:
 - Mobile-first workflow
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/obaryo)
+- Frontend Mentor - [@obaryo](https://www.frontendmentor.io/profile/obaryo)
 
