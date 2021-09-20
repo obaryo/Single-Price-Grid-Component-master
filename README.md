@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/single-price-grid-component-html-css-flexbox-QymVi7cUY)
-- Live Site URL: [Add live site URL here](https://single-price-grid-component-master-obaryo.vercel.app/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/single-price-grid-component-html-css-flexbox-QymVi7cUY)
+- Live Site URL: [Vecel](https://single-price-grid-component-master-obaryo.vercel.app/)
 
 ## My process
 
